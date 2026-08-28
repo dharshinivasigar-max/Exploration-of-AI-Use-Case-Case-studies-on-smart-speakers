@@ -20,6 +20,9 @@ Processing → Response Generation → Speaker Output
 6. The system retrieves information or performs the requested action.  
 7. A response is generated.  
 8. Text-to-Speech (TTS) converts the response into voice.  
-9. The speaker gives the response to the user.  
+9. The speaker gives the response to the user.
+10. <img width="2000" height="2828" alt="1" src="https://github.com/user-attachments/assets/a6eb67bc-e691-4c49-b133-4ac5e400677a" />
+
+
 # RESULT
 https://drive.google.com/file/d/1AYHhRfjtwemiUFMuyKbb1T6sZnvg8Exq/view?usp=sharing
