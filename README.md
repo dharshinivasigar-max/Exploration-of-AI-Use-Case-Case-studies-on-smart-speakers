@@ -2,8 +2,24 @@
 # AIM
 To study the application of Artificial Intelligence in smart speakers and understand how AI technologies such as Natural Language Processing (NLP), Speech Recognition, Machine Learning, and Voice Assistant technology are used to provide intelligent services.
 # THEORY
-https://drive.google.com/file/d/1Vru7w7TD4MvheJgQLS4KhgsbgRUZiW7h/view?usp=sharing
+A smart speaker is an AI-enabled electronic device that accepts voice commands from 
+users and provides appropriate responses or performs actions. Examples include smart 
+speakers such as Amazon Echo, Google Nest, and Apple HomePod. 
+Smart speakers combine several AI technologies to understand human speech, 
+identify the user's intention, search for information, control smart devices, play music, 
+set reminders, and answer questions.
 # WORKING PRINCIPLE 
-https://drive.google.com/file/d/1Axxio7yMkiEHRoS6tmQ_j4UHcLyq90Hv/view?usp=sharing
+The basic working process of an AI-enabled smart speaker is: 
+User Voice → Microphone → Speech Recognition → NLP → Intent Detection → AI 
+Processing → Response Generation → Speaker Output 
+1. The user gives a voice command.  
+2. The microphone captures the user's speech.  
+3. Speech Recognition converts speech into text.  
+4. Natural Language Processing (NLP) analyzes the meaning of the command.  
+5. Machine Learning/AI models identify the user's intent.  
+6. The system retrieves information or performs the requested action.  
+7. A response is generated.  
+8. Text-to-Speech (TTS) converts the response into voice.  
+9. The speaker gives the response to the user.  
 # RESULT
 https://drive.google.com/file/d/1AYHhRfjtwemiUFMuyKbb1T6sZnvg8Exq/view?usp=sharing
